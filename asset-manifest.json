@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cart-react/static/css/main.bc23bfc8.css",
-    "main.js": "/cart-react/static/js/main.16772561.js",
-    "static/js/453.010ea1e9.chunk.js": "/cart-react/static/js/453.010ea1e9.chunk.js",
-    "static/media/Product2.png": "/cart-react/static/media/Product2.c8b28a411867caf9c647.png",
-    "static/media/Product1.png": "/cart-react/static/media/Product1.3be49d969c3a02bd9661.png",
-    "static/media/Product3.png": "/cart-react/static/media/Product3.54b913ef62ad140be116.png",
-    "static/media/Logo_dapurazfi.png": "/cart-react/static/media/Logo_dapurazfi.e269cd42a8b053201bd6.png",
-    "static/media/produkmain.png": "/cart-react/static/media/produkmain.9e984ac76d774b83f19e.png",
-    "static/media/JosefinSans-VariableFont_wght.ttf": "/cart-react/static/media/JosefinSans-VariableFont_wght.c464ea79c32a55349581.ttf",
-    "static/media/avatar.png": "/cart-react/static/media/avatar.64016971828c910188e1.png",
-    "index.html": "/cart-react/index.html",
-    "main.bc23bfc8.css.map": "/cart-react/static/css/main.bc23bfc8.css.map",
-    "main.16772561.js.map": "/cart-react/static/js/main.16772561.js.map",
-    "453.010ea1e9.chunk.js.map": "/cart-react/static/js/453.010ea1e9.chunk.js.map"
+    "main.css": "/dapurazfi/static/css/main.5211934d.css",
+    "main.js": "/dapurazfi/static/js/main.3ab92c15.js",
+    "static/js/453.010ea1e9.chunk.js": "/dapurazfi/static/js/453.010ea1e9.chunk.js",
+    "static/media/Product2.png": "/dapurazfi/static/media/Product2.c8b28a411867caf9c647.png",
+    "static/media/Product1.png": "/dapurazfi/static/media/Product1.3be49d969c3a02bd9661.png",
+    "static/media/Product3.png": "/dapurazfi/static/media/Product3.54b913ef62ad140be116.png",
+    "static/media/Logo_dapurazfi.png": "/dapurazfi/static/media/Logo_dapurazfi.e269cd42a8b053201bd6.png",
+    "static/media/produkmain.png": "/dapurazfi/static/media/produkmain.9e984ac76d774b83f19e.png",
+    "static/media/JosefinSans-VariableFont_wght.ttf": "/dapurazfi/static/media/JosefinSans-VariableFont_wght.c464ea79c32a55349581.ttf",
+    "static/media/avatar.png": "/dapurazfi/static/media/avatar.64016971828c910188e1.png",
+    "index.html": "/dapurazfi/index.html",
+    "main.5211934d.css.map": "/dapurazfi/static/css/main.5211934d.css.map",
+    "main.3ab92c15.js.map": "/dapurazfi/static/js/main.3ab92c15.js.map",
+    "453.010ea1e9.chunk.js.map": "/dapurazfi/static/js/453.010ea1e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc23bfc8.css",
-    "static/js/main.16772561.js"
+    "static/css/main.5211934d.css",
+    "static/js/main.3ab92c15.js"
   ]
 }
